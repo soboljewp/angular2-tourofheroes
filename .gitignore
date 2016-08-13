@@ -36,5 +36,11 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
+# Idea files
+.idea/workspace.xml
+
 # Typings files
 typings
+
+*.js.map
+app/**/*.js
